@@ -1,0 +1,45 @@
+*{
+    font-family: cursive;
+}
+
+body{
+    background-image: url(/Project-MT/bg.jpg);
+    background-size: center;
+    background-position: center;
+
+}
+h1 {
+    font-size: 45px;
+}
+img{
+    height: 200px;
+    width: 250px;
+    border-radius: 20%;
+    border: solid black;
+}
+p{
+    font-size: 25px;
+    text-align: center;
+}
+td{
+    text-align: center;
+}
+a{
+    font-family: arial;
+    font-size: 20px;
+    text-align: center;
+    color: black;
+    margin-bottom: 0px;
+    padding-left: 50px;
+    text-decoration: none;
+}
+a:hover{
+    color: whitesmoke;
+    height: 20px;
+    width: 20px;
+}
+mark{
+    color: white;
+    background-color: black;
+    border-radius: 20px;
+}
